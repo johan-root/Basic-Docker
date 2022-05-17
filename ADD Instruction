@@ -1,0 +1,13 @@
+#Format ADD
+ADD <source> <destination>
+
+#Example:
+ADD hello.txt hello
+ADD *.txt hello
+
+#Explanation
+Line 1 is for add file hello.txt to directory hello.
+Line 2 is for add all file .txt to folder hello.
+
+Note:
+add is not move the file, but it's a copy the file
