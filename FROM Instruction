@@ -1,0 +1,8 @@
+#Format FROM:
+FROM <name_image>
+
+#Example:
+FROM alpine:3
+
+#Explanation:
+"alpine:3" is name of image.
