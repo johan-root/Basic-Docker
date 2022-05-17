@@ -1,0 +1,10 @@
+#Format Docker Build
+docker build -t <name_image> <directory-dockerfile>
+
+#example:
+docker build -t syahaya/hello:1.0.0 .
+
+#Explanation
+"-t" stands for --tag, is format for name file/image.
+":1.0.0" is for tag image, if you don't use the tag it will be automatically latest.
+"." is directory of dockerfile.
