@@ -1,0 +1,5 @@
+FROM <image>
+
+#Example:
+
+FROM alpine:3
