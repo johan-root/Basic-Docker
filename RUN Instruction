@@ -1,0 +1,10 @@
+#Format RUN
+- RUN <command>
+- RUN ["executable","argument","..."]
+
+#example command:
+RUN mkdir hello
+
+#explanation:
+"mkdir" is command for create new directory.
+"hello" is the name of directory.
